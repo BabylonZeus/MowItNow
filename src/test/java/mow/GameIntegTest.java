@@ -9,11 +9,8 @@ import org.junit.Test;
 import java.util.ArrayList;
 
 import static mow.Environment.*;
-import static mow.enums.Action.A;
-import static mow.enums.Action.D;
-import static mow.enums.Action.G;
-import static mow.enums.Direction.E;
-import static mow.enums.Direction.N;
+import static mow.enums.Action.*;
+import static mow.enums.Direction.*;
 
 public class GameIntegTest {
 
